@@ -1,0 +1,51 @@
+# Automation-of-Restaurant-Chain-Revenue-Analytics-ERP-Platform
+
+## Overview
+
+An end-to-end Business Intelligence solution built using SQL Server, PowerShell, Google Sheets and Looker Studio.
+
+## Architecture
+
+![Architecture](docs/architecture-diagram.png)
+
+---
+
+## Technology Stack
+
+- SQL Server
+- T-SQL
+- PowerShell
+- Google Sheets
+- Looker Studio
+
+---
+
+## Features
+
+- Automated ETL Pipeline
+- Daily Revenue Reporting
+- MTD Revenue Analysis
+- YoY Comparison
+- Bill Count Analytics
+- Revenue Per Day KPI
+- Interactive Filters
+- Category Analysis
+
+---
+
+## Dashboard Preview
+
+![Dashboard](dashboard/dashboard-overview.png)
+
+---
+
+## Business Impact
+
+- Reduced manual reporting effort by almost 100%
+- Reduces clerical mistakes usually occurs due to manual work
+- Automated daily reporting
+- Live performance tracking
+- Reports availability even on public holidays
+- Simplified business insights with graphical representation 
+- Improved visibility into outlet performance
+- Enabled real-time executive decision making
