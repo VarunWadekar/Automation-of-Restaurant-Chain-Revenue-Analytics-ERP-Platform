@@ -1,0 +1,7 @@
+RESTAURANT_CHAIN_LIVE_ERP_REPORT
+
+Looker Studio BI Link
+
+This Report is based on a Sample data. 
+
+https://datastudio.google.com/reporting/aa5aaadc-6078-41f6-b016-da44ec8749d1
