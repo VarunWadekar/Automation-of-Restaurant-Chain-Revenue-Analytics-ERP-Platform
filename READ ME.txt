@@ -4,10 +4,6 @@
 
 An end-to-end Business Intelligence solution built using SQL Server, PowerShell, Google Sheets and Looker Studio.
 
-## Architecture
-
-![Architecture](docs/architecture-diagram.png)
-
 ---
 
 ## Technology Stack
@@ -33,16 +29,10 @@ An end-to-end Business Intelligence solution built using SQL Server, PowerShell,
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](dashboard/dashboard-overview.png)
-
----
-
 ## Business Impact
 
 - Reduced manual reporting effort by almost 100%
-- Reduces clerical mistakes usually occurs due to manual work
+- Reduces clerical mistakes that usually occur due to manual work
 - Automated daily reporting
 - Live performance tracking
 - Reports availability even on public holidays
